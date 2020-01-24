@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65881551-2e2b-4caa-aa76-9ec4cc7439cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VyWy7hFoB5kdAYpCTTxI9O6IMW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="kotlin.migration.detection.enabled" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TelegramRobot" />
+      <shortenClasspath name="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65881551-2e2b-4caa-aa76-9ec4cc7439cb" name="Default Changelist" comment="" />
+      <created>1578226067140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578226067140</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="482" y="96" key="#Project_Structure" timestamp="1579860266376">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="920" y="85" key="#Project_Structure/0.0.1920.1020@0.0.1920.1020" timestamp="1578232915788" />
+    <state x="482" y="96" key="#Project_Structure/0.0.1920.1038@0.0.1920.1038" timestamp="1579860266376" />
+    <state x="420" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578229360137">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="420" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1020@0.0.1920.1020" timestamp="1578229360137" />
+    <state x="721" y="151" width="468" height="746" key="#com.intellij.ide.util.MemberChooser" timestamp="1579886937487">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="721" y="151" width="468" height="746" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1038@0.0.1920.1038" timestamp="1579886937487" />
+    <state x="631" y="248" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578229242950">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="631" y="248" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1020@0.0.1920.1020" timestamp="1578229242950" />
+    <state x="1112" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579860410120">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="1112" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1579860410120" />
+    <state width="1864" height="288" key="GridCell.Tab.0.bottom" timestamp="1579887013795">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="904" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1020@0.0.1920.1020" timestamp="1578332612611" />
+    <state width="1864" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1038@0.0.1920.1038" timestamp="1579887013795" />
+    <state width="1864" height="288" key="GridCell.Tab.0.center" timestamp="1579887013787">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="904" height="250" key="GridCell.Tab.0.center/0.0.1920.1020@0.0.1920.1020" timestamp="1578332612611" />
+    <state width="1864" height="288" key="GridCell.Tab.0.center/0.0.1920.1038@0.0.1920.1038" timestamp="1579887013787" />
+    <state width="1864" height="288" key="GridCell.Tab.0.left" timestamp="1579887013786">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="904" height="250" key="GridCell.Tab.0.left/0.0.1920.1020@0.0.1920.1020" timestamp="1578332612611" />
+    <state width="1864" height="288" key="GridCell.Tab.0.left/0.0.1920.1038@0.0.1920.1038" timestamp="1579887013786" />
+    <state width="1864" height="288" key="GridCell.Tab.0.right" timestamp="1579887013791">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="904" height="250" key="GridCell.Tab.0.right/0.0.1920.1020@0.0.1920.1020" timestamp="1578332612611" />
+    <state width="1864" height="288" key="GridCell.Tab.0.right/0.0.1920.1038@0.0.1920.1038" timestamp="1579887013791" />
+    <state width="1864" height="317" key="GridCell.Tab.1.bottom" timestamp="1579632128335">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1864" height="317" key="GridCell.Tab.1.bottom/0.0.1920.1038@0.0.1920.1038" timestamp="1579632128335" />
+    <state width="1864" height="317" key="GridCell.Tab.1.center" timestamp="1579632128334">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1864" height="317" key="GridCell.Tab.1.center/0.0.1920.1038@0.0.1920.1038" timestamp="1579632128334" />
+    <state width="1864" height="317" key="GridCell.Tab.1.left" timestamp="1579632128334">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1864" height="317" key="GridCell.Tab.1.left/0.0.1920.1038@0.0.1920.1038" timestamp="1579632128334" />
+    <state width="1864" height="317" key="GridCell.Tab.1.right" timestamp="1579632128334">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1864" height="317" key="GridCell.Tab.1.right/0.0.1920.1038@0.0.1920.1038" timestamp="1579632128334" />
+    <state x="579" y="105" width="1254" height="916" key="SettingsEditor" timestamp="1578523080054">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="579" y="104" width="1254" height="916" key="SettingsEditor/0.0.1920.1020@0.0.1920.1020" timestamp="1578305328670" />
+    <state x="579" y="105" key="SettingsEditor/0.0.1920.1038@0.0.1920.1038" timestamp="1578523080054" />
+    <state x="563" y="297" key="com.intellij.ide.util.TipDialog" timestamp="1579821666509">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="563" y="292" key="com.intellij.ide.util.TipDialog/0.0.1920.1020@0.0.1920.1020" timestamp="1578266013734" />
+    <state x="563" y="297" key="com.intellij.ide.util.TipDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1579821666509" />
+    <state x="522" y="41" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579632112634">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="522" y="41" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1038@0.0.1920.1038" timestamp="1579632112634" />
+    <state x="946" y="0" width="818" height="1038" key="find.popup" timestamp="1578505291180">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="946" y="0" width="818" height="1038" key="find.popup/0.0.1920.1038@0.0.1920.1038" timestamp="1578505291180" />
+    <state x="540" y="230" key="run.anything.popup" timestamp="1578520404373">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="540" y="230" key="run.anything.popup/0.0.1920.1038@0.0.1920.1038" timestamp="1578520404373" />
+    <state x="539" y="3" width="840" height="1034" key="search.everywhere.popup" timestamp="1579648910616">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="539" y="3" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1038@0.0.1920.1038" timestamp="1579648910616" />
+  </component>
+</project>
